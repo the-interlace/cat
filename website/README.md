@@ -2,7 +2,10 @@
 A good enough™️ landing page for cybernetic cats everywhere.
 Artisanally crafted in Portland, OR 🌳 @ Bobacat Tea House 🧋
 
-Live demo: [CatDAO](https://catdao.neocities.org)
+Live demo: [CatDAO](https://catdao.neocities.org)   
+Half-live demo: [SchröDao](https://snow-globe-effect.com/2016/05/24/the-dao-buddha-and-quatum-mechanics/)   
+Dead demo: [NFBounce](https://superrare.com/artwork/dead-cat-bounce-1032) 
+
 ## Commands
 
 All commands are run from the root of the project, from a terminal:
